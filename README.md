@@ -26,10 +26,10 @@ debugging some nasty errors, or building something that looks cool and actually 
 `NLP` `LLMs` `Sentiment Analysis` `Regression Models` `Feature Engineering` 
 
 **Gen AI**
-`prompt Engineering` `Anthropic API (Claude)` `Gemini API`
+`prompt Engineering` `Anthropic API (Claude)` `Gemini API` `LangChain` `Cursor(GenAI)`
 
 **Tools & Other**
-`Jupyter` `Streamlit` `FastAPI` `PRAW` `yfinance` `Git` `Github` `numpy` `pandas` `hugging face` `Render` `Vercel` `Matplotlib`  
+`Jupyter` `Streamlit` `FastAPI` `PRAW` `yfinance` `Git` `Github` `numpy` `pandas` `hugging face` `Render` `Vercel` `Matplotlib` `Figma`
 
 ## 🎸 Fun facts about Me
 
