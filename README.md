@@ -29,7 +29,7 @@ debugging some nasty errors, or building something that looks cool and actually 
 `prompt Engineering` `Anthropic API (Claude)` `Gemini API`
 
 **Tools & Other**
-`Jupyter` `Streamlit` `REST APIs` `PRAW` `yfinance` `Git` `Github` `numpy` `pandas` `hugging face` `Render` `Vercel` `Matplotlib`  
+`Jupyter` `Streamlit` `FastAPI` `PRAW` `yfinance` `Git` `Github` `numpy` `pandas` `hugging face` `Render` `Vercel` `Matplotlib`  
 
 ## 🎸 Fun facts about Me
 
